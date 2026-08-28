@@ -40,3 +40,6 @@ model = YOLO("plate_detector_yolo11n.pt")
 results = model.predict("vehicle.jpg", conf=0.35)
 results[0].show()
 ```
+
+## License
+This model and its weights are open-source and released under the **MIT License**.

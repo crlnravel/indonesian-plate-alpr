@@ -132,3 +132,8 @@ python app.py
 ## 📊 Dataset & Credits
 - Dataset: **Juan Thomas Wijaya**: [Indonesian License Plate Dataset](https://www.kaggle.com/datasets/juanthomaswijaya/indonesian-license-plate-dataset) on Kaggle.
 - Deep Learning Framework: [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics).
+
+---
+
+## 📄 License
+This project, including its source code, exported weights (`.pt`, `.onnx`, `.tflite`), and notebooks, is released under the **[MIT License](LICENSE)**. You are free to use, modify, distribute, and integrate this project for academic, personal, or commercial applications with attribution.
