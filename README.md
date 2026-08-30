@@ -1,8 +1,8 @@
 # Indonesian Automatic License Plate Recognition (ALPR) with YOLO11
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces%20Demo-blue)](https://huggingface.co/spaces)
+[![Hugging Face Detector](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Plate%20Detector-yellow)](https://huggingface.co/carlravel/indonesian-plate-detector-yolo11)
+[![Hugging Face Recognizer](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Character%20OCR-orange)](https://huggingface.co/carlravel/indonesian-plate-recognizer-yolo11)
 [![Ultralytics YOLO11](https://img.shields.io/badge/Ultralytics-YOLO11-00BFFF)](https://docs.ultralytics.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
